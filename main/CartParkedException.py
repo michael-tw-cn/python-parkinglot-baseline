@@ -1,0 +1,2 @@
+class CartParkedException(Exception):
+    pass
