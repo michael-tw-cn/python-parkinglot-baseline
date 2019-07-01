@@ -1,0 +1,2 @@
+class ParkinglotFullException(Exception):
+    pass

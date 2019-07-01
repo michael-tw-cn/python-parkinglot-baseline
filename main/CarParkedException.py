@@ -1,0 +1,2 @@
+class CarParkedException(Exception):
+    pass
